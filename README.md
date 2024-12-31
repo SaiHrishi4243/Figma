@@ -566,6 +566,7 @@ page4.html
 
 ## OUTPUT:
 
+![alt text](<Screenshot 2024-12-28 042006.png>)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
